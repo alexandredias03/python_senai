@@ -1,0 +1,25 @@
+{
+    "clientes": [
+        {
+            "nome": "Alexandre",
+            "email": "alexandre@senai.com.br",
+            "idade": 21
+        },
+        {
+            "nome": "Diogo",
+            "email": "diogo@senai.com.br",
+            "idade": 21
+        },
+        {
+            "nome": "Neymar Jr",
+            "email": "neymar@santos.com.br",
+            "idade": 33
+        },
+        {
+            "nome": "Memphis Depay",
+            "email": "depay@corinthians.com.br",
+            "idade": 31
+        }
+    ],
+    "produtos": []
+}
